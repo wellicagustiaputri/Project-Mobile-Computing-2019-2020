@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Wisata Lampung</string>
+    <string name="name">Nama Wisata</string>
+    <string name="overview">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Puncak Mas</item>
+        <item>Taman Wisata Dan Taman Satwa Lembah Hijau</item>
+        <item>Museum Lampung Ruwa Jurai</item>
+        <item>Pantai Pasir Putih</item>
+        <item>Teluk Lampung</item>
+        <item>Teluk Kiluan</item>
+        <item>Pantai Terbaya</item>
+        <item>Air Terjun Way Lalaan</item>
+        <item>Pantai Pegadung Gigi Hiu</item>
+        <item>Taman Nasional Way Kambas</item>
+        <item>Taman Purbakala Pugung Raharjo</item>
+        <item>Danau Ranau</item>
+        <item>Air Terjun Sepapa</item>
+        <item>Lembah Suoh Geothermal</item>
+        <item>Bukit Bakung</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Berlokasi di daerah perbukitan, spot wisata berupa rumah pohon dengan kelebihan dari atas ketinggian pengunjung dapat menikmati 3 (tiga) spot pemandangan sekaligus yaitu perbukitan, pusat Kota Bandar Lampung dan Teluk Lampung. Terdapat sebuah rumah pohon yang unik karena posisi atap terbalik. Rumah pohon ini menjadi incaran bagi yang suka berswafoto. Waktu terbaik kunjungan saat malam hari atau sore menjelang malam, di mana anda dapat melihat harmonisasi cantik antara kota Bandar Lampung yang bagaikan lautan kunang-kunang serta langit yang dihiasi ribuan bintang juga teduhnya sinar bulan. Pemandangan pada siang hari pun juga tak kalah cantik.</item>
+        <item>Obyek wisata ini merupakan taman wisata keluarga berorentasi lingkungan, memadukan antara rekreasi, nuansa kesegaran alam nan hijau dan pengetahuan, taman wisata yang
+berlokasi di  Bandar Lampung yang menjadi ibukota Provinsi Lampung ini berdiri diatas kawasan lembah dengan luas 30 Ha. Berbagai wahana sarana rekreasi keluarga menarik tersedia mulai dari yang bernuansa hiburan, ilmu pengetahuan alam hingga petualangan. Saat ini Lembah Hijau memiliki Kebun Binatang dengan pengelolaan yang terbaik di sumatera. Gajah sumatera dari Way Kambas pun siap menyambut pengunjung dengan atraksinya dan safari berkeliling taman wisata serta arena panggung hiburan yang menampilkan satwa-satwa pintar seperti : orang utan, burung dan berang-berang.</item>
+        <item>Museum Lampung adalah salah satu tujuan wisata sejarah yang memainkan peran pendidikan, penelitian dan rekreasi. Koleksi sejarah mencakup karya seni, keramik dari Siam dan China dari Dinasti Ming, segel kuno dan mata uang pada masa penjajahan Belanda dll. Total koleksi 4.652 benda terdiri dari koleksi Geologi, 71 buah, 89 buah Biologi, Etnografi 2.040 buah, 311 buah Arkeological, Historis 55 buah, Numismatik / heraldik 1.347 buah, 44 buah Filogical, Keramik 666 buah, 8 buah dan Seni Rupa Teknologi 23 buah. Koleksi khusus / dimiliki sebuah Nekara atau Bejana Perunggu dari sekitar tahun 1500SM yang digunakan sebagai benda upacara, ditemukan di Labuhan Maringgai Sri Minosari Kabupaten Lampung Timur. Di Indonesia hanya ditemukan di 3 (tiga) lokasi yaitu : Kerinci, Madura dan Lampung.</item>
+        <item>Pantai Pasir Putih ini terletak di Jalan Trans Sumatera, Tarahan, Kabupaten Lampung Selatan , berjarak 45 Km ini memerlukan waktu perjalanan sekita 30-45 menit. Hampir setiap hari libur nasional di pantai ini pasti ramai dikunjungi wisatawan lokal maupun dari Luar Lampung, Mereka ingin berlibur sesambil menikmati indahnya pesona pantai Pasir Putih tersebut.
+
+Setibanya di Pantai Pasir Putih, Anda seolah disambut dengan pemandangan alam yang luar biasa. Pantai berpasir putih  serta jernihnya air memanjakan mata pengunjung memandang. Pepohonan tepi pantai melambai terhembus kencangnya air laut menyejukan, akan membuat siapa saja pengunjung yang melihatnya takjub dan terpana. Anda bisa snorkeling di sana.
+
+
+
+Di Pantai Pasir Putih banyak aktivitas yang dapat di lakukan, Di sini Anda dapat melepas kepenatan hanya sekedar tiduran, berjalan-jalan di tepi pantai berpasir putih atau hunting foto dengan mencari objek foto panorama alam dapat dilakukan di sekitar pantai. Pasir Putih dan bersihnya pantai, akan membuat pengunjung betah untuk berlama-lama di pantai cantik ini.</item>
+        <item>Jalur wisata teluk Lampung menjadi favorit karena dekat dengan Kota Bandar Lampung, trip bisa dilakukan satu hari atau lebih. Selain itu ada banyak pulau yang bisa menjadi pilihan, sehingga bisa melakukan hopping island atau tur pulau ke pulau lainnya yang cukup berdekatan dan miliki kekhasannya masing-masing. Mulai dari keindahan pasir putih di pantainya, fenomena pasir timbul, hingga menikmati surga bawah laut Teluk Lampung. Sebut saja bila anda menuju Pulau Pahawang, dari sana bisa melakukan hopping island ke pulau sekitarnya, seperti Pulau Kelagian, Pulau Tegal, Pulau Tanjung Putus, Pulau Loh, Pulau Balak, Pulau Mahitam, dan pulau-pulau lainnya. Bahkan di teluk Lampung lebih dari tiga pulau bisa dikunjungi dalam satu hari.</item>
+        <item>Teluk Kiluan merupakan destinasi wisata dengan potensi wisata bahari, terutama terkenal dengan panorama eksotik keindahan alam dan surga bagi lumba-lumba. Banyaknya lumba-lumba di habitat alaminya karena teluk ini merupakan jalur lintasan lumba-lumba. Lumba-lumba sebaiknya dilihat pada pagi hari mulai pukul 6 hingga 9 dengan menaiki Perahu Ketingting yang memiliki bentuk yang khas. Sekitar teluk terdapat Pulau Kelapa, merupakan tempat ideal bagi aktifitas wisata air, seperti snorkeling dan berenang atau sekedar menikmati pantai berpasir putih. Di balik teluk terdapat Laguna Gayau dimana kita bisa berenang. Kehidupan masyarakat sekitarnya yang masih tradisional perpaduan budaya pribumi Lampung, Bali dan Jawa, dapat dilihat saat perjalanan menuju Teluk Kiluan.</item>
+        <item>Pantai Terbaya terletak sekitar 1 kilometer sebelum memasuki Kota Agung dari arah Pringsewu. Sayangnya ombak di pantai tersebut kurang bersahabat sebagai tempat mandi laut, apalagi banyak batuan di sepanjang pantainya, sehingga kurang nyaman sebagai tempat berjalan kaki. Untuk mencapai bibir pantai dari
+ketinggian tempat parkir kendaraan, harus menuruni banyak anak tangga dan tampaknya tidak sesuai untuk pengunjung yang sudah berumur. Kira-kira berjarak 3 kilometer dari pantai Terbaya, anda dapat mampir ke air terjun Way Lalaan, dan tentu saja harus menuruni banyak anak tangga lagi untuk mencapai tepi sungai.</item>
+        <item>Air Terjun Way Lalaan merupakan air terjun bertingkat dengan jarak satu sama lainnya lebih kurang 200 meter. Sumber air berasal dari aliran Way Lalaan yang terletak di lembah kaki gunung Tanggamus dan aliran sungainya bermuara di Teluk Semaka. Dibuat jalur tangga semen menuju lembah air terjun, untuk memperoleh panorama air terjun yang sangat indah. fasilitas yang tersedia berupa shelter, kamar ganti pakaian, arena bermain anak, dan pelataran parkir. Dapat dicapai dari Bandar Lampung – Kota Agung sekitar dua jam perjalanan, 2 km dari pusat pemerintahan Kabupaten Tanggamus, 85 km dari Bandar Lampung</item>
+        <item>Gigi Hiu adalah barisan karang/batu yang megah dan menjulang membentuk seperti bangunan ataupun tiang-tiang tinggi di pinggir pantai. Tentu saja ini buatan alam ratusan ataupun ribuan tahun. Gerusan angin dan ombak yang membentuknya. Ombak yang cukup deras juga menambah sensasi eksotismenya. Apalagi saat sore tiba, matahari terbenam tepat di belakang karang. Cahaya matahari yang menyelinap masuk dari bilik-bilik dan celah karang akan semakin memukau mata pengunjung.</item>
+        <item>Taman Nasional Way Kambas merupakan Asean Heritage Park, beberapa spesies yang terancam punah hidup didalamnya seperti badak, gajah, harimau, angsa liar dan buaya. Sebuah pusat pelatihan gajah yang didirikan pada tahun 1985 sebagai sekolah gajah pertama di Indonesia yang kini bernama Pusat Konservasi Gajah. Pertunjukan gajah menampilkan atraksi menarik seperti gajah berjoget, berdiri di tonggak, melangkahi orang, bermain bola dll. Kegiatan yang dapat dilakukan diantaranya safari gajah, foto hunting, naik kereta gajah. Waktu kunjungan terbaik adalah pagi dan sore hari. Camp Way Kanan berlokasi 13,3 km dari Pintu Gerbang (Plang Ijo), daya tarik keragaman flora dan faunanya. Kegiatan yang dapat dilakukan adalah trekking, menyusuri sungai, berkemah, foto dan pengamatan satwa dengan dipandu petugas. Info lebih lanjut: Balai Besar Taman Nasional Way Kambas Jl. Raya Labuhan Ratu Lama, Labuhan Ratu, Sukadana Lampung Timur.</item>
+        <item>Taman Purbakala Pugung Raharjo ditemukan oleh penduduk secara tidak sengaja pada tahun 1957. Luas area tersebut sekitar 30 hektar. Situs purbakala ini merupakan peninggalan jaman megalitik (batu besar), berupa benda-benda peninggalan Hindu-Budha (klasik tengah) seperti Arca Batu, Prasasti, Batu Berlubang, Menhir, Punden Berundak, Keramik lokal maupun Asing (Dinasti Han, Yuan, Sung dan Ming), sebuah Arca type Polynesia tersimpan pada site Rumah Informasi/Museum Situs Pugung Raharjo. Sebuah benteng parit primitif sepanjang 1,2 km mengelilingi situs Purbakala ini diduga dahulunya berisi air yang berasal dari sumber air disisi timur situs, yang konon  menurut cerita air tersebut bila di pakai mandi dapat membuat awet muda.</item>
+        <item>Danau Ranau merupakan Danau terbesar kedua di Sumatera, terletak di Desa Lumbok (km 286), Sukau atau 31 km dari Kota Liwa Ibukota Kabupaten Lampung Barat. Secara geografis, danau ini terletak di perbatasan Kabupaten OKU Selatan Propinsi Sumatera Selatan dan Kabupaten Lampung Barat, Provinsi Lampung.Luas Danau Ranau sekitar 8×16 km dengan latar belakang Gunung Seminung (ketinggian ± 1.880 m dpl), dikelilingi oleh bukit dan lembah. Pada malam hari udara sejuk dan pada siang hari suhu berkisar 20° – 26° Celsius.</item>
+        <item>Air Terjun Sepapa adalah salah satu tempat wisata yang berdekatan dengan Taman Nasional Bukit Barisantepatnya di Kabupaten Lampung Barat.Disini kita bisa melihat keunikan dan keanekaragaman hayati yang masih terjaga dengan baik dan juga bisa menjelajahi hutan hujan tropis yang akan membuat pengunjung merasa nyaman.Air Terjun Sepapa berdiri tegak dengan ketinggian -/+ 60m, memberikan kesan eksotik karena berada ditengah hutan hujan tropis yang masih alami.</item>
+        <item>Lembah Suoh Geothermal adalah Geotrek dengan potensi panas bumi yang luar biasa menjanjikan wisata petualangan yang cukup menantang, menembus jalan tanah,menyebrangi way semaka diakhiri dengan panorama dari Danau Lebar, Danau Belibis, DanauMinyakdan Danau Asam.</item>
+        <item>Ada yang menyebutnya Negeri di Atas Awan, ada pula yang menyebutnya Bukit Kabut dan beberapa sebutan lain. Ya, ada banyak penyebutannya tanda banyak yang mengaguminya. Ialah Bukit Bawang Bakung di Kembahang, Liwa, Lampung Barat. Warna baru daya tarik alam di Lampung Barat. Bukit Bawang Bakung, tak begitu jauh dari Kota Liwa hanya sekitar 20 menit. Waktu terbaik ialah saat pagi hari, melihat kabut luruh yang perlahan-lahan ‘menelanjangkan’ keindahan Kota Liwa dari atas bukit. Saat kabut mulai menghilang, dua gunung besar akan terlihat menyembul, Pesagi dan Seminung. Menambahkan kesyahduan untuk mata memandang, membawa kita jatuh cinta pada pandangan pertama, dan rindu untuk datang kembali ke Bawang Bakung. Bukit Bawang Bakung tumbuh menjadi destinasi baru di Lampung Barat, sejak kemunculannya menjadi buah bibir di media sosial. Para fotografer di Lampung Barat lah yang memperkenalkan ke masyarakat luas. Kini di bukit yang dulu sepi itu selalu dipenuhi muda-mudi saat pagi hari. Tak jarang wisatawan luar Lampung Barat juga sengaja berkunjung kemari. Selain indah di mata kita dan mata lensa, di sini adalah tempat yang sangat segar dan sangat menenangkan tentunya, cocok untuk melepaskan kepenatan. Untuk mencapai Bukit Bawang Bakung bisa menggunakan motor ataupun mobil, dengan jalan yang sempit namun masih bisa dilewati. Saat menuju ke atas bukit, anda akan memasuki perkampungan dengan suguhan sawah serta sungai dan rumah panggung khas Lampung Barat, serta melihat aktivitas masyarakat lokal di pagi hari. Ditambah perjalanan berkelok yang sesekali memperlihatkan pemandangan pagi berkabut yang luar biasa. Silahkan mencoba sensasi dipeluk kabut, sejuk dan segar. Namun, bagi anda yang tidak terbiasa dengan udara sejuk disarankan membawa jaket.</item>
+        </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/puncakmas</item>
+        <item>@drawable/lembahhijau</item>
+        <item>@drawable/museumlampung</item>
+        <item>@drawable/pantaipasirputih</item>
+        <item>@drawable/teluklampung</item>
+        <item>@drawable/telukkiluan</item>
+        <item>@drawable/pantaiterbaya</item>
+        <item>@drawable/airterjunwaylalaan</item>
+        <item>@drawable/pantaigigihiu</item>
+        <item>@drawable/waykambas</item>
+        <item>@drawable/pugungraharjo</item>
+        <item>@drawable/danauranau</item>
+        <item>@drawable/airterjunsepapa</item>
+        <item>@drawable/lembahsuoh</item>
+        <item>@drawable/bukitbakung</item>
+    </array>
+</resources>
